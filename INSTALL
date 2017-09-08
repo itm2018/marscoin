@@ -1,0 +1,9 @@
+Building MarsCoin
+
+See doc/readme-qt.rst for instructions on building MarsCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MarsCoin.
+
+See doc/build-*.txt for instructions on building marscoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MarsCoin.
